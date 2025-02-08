@@ -517,10 +517,10 @@ input[type="checkbox"] {
     border-top-color: var(--75pct_alt_bg);
 }
 
-.video-js .vjs-control-bar {
+/*.video-js .vjs-control-bar {
     background-color: var(--alt_bg);
     background-color: var(--75pct_alt_bg);
-}
+}*/
 
 .video-js .vjs-control:focus:before,.video-js .vjs-control:hover:before,.video-js .vjs-control:focus {
     text-shadow: 0em 0em 1em var(--foreground);
